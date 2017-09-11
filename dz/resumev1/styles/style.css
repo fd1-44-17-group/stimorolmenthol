@@ -1,0 +1,16 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f9e5e5;
+}
+
+img {
+    width: 250px; /* Ширина */
+}
+
+h3 {
+    border: 2px groove #000000;
+    background-color: #FF9A7A; /* Цвет фона */
+    text-align: center; /* Выравнивание текста */
+    border-radius: 5px; /* Радиус закругления бордера */
+    font-size: 18px; /* Размер шрифта */
+}
