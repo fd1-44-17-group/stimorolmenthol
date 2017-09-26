@@ -27,7 +27,17 @@
     vertical-align: top; 
     padding: 20px;
     float: left;
+    
 }
+
+
+@media (max-width: 400px) {
+.d-menu {
+    float: none;
+    width: 100%;
+}
+}
+
 
 .d-content img {
     width: 150px; 
@@ -35,8 +45,8 @@
     margin: 0px 20px 20px 20px;
 }
 
-div {
-    margin: 10px 20px;
+.clear {
+   clear: both;
 }
 
 .d-content h3 {
