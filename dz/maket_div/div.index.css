@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.d-page-title {
+    background-color: #00BFFF;
+    color: #0000CD; 
+    text-transform: uppercase; 
+    padding: 10px 0;
+    text-align: center;
+    
+}
+
+.d-my-table {
+    width: 100%;
+}
+
+.d-menu div {
+    list-style-type: disc;
+    padding-left: 20px;
+} 
+
+.d-menu  {
+    background-color: #FFFF00;
+    width: 150px;
+    vertical-align: top; 
+    padding: 20px;
+    float: left;
+}
+
+.d-content img {
+    width: 150px; 
+    float: left;
+    margin: 0px 20px 20px 20px;
+}
+
+div {
+    margin: 10px 20px;
+}
+
+.d-content h3 {
+    text-align: center; 
+    font-size: 30px; 
+    margin: 10px;
+}
+.d-menu h4 {
+    margin-bottom: 20px;
+}
+
+.d-menu ul li {
+    
+    margin: 10px 0px;
+}
+
+
