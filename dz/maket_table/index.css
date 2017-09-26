@@ -28,10 +28,12 @@
     padding: 20px;
 }
 
+
+ 
 .content img {
     width: 150px; 
     float: left;
-    margin: 0px 20px 20px 20px; 
+    margin: 15px 20px 20px 20px; 
 }
 
 p {
@@ -46,4 +48,10 @@ p {
 
 .menu h4 {
     margin-bottom: 20px;
+}
+
+@media (max-width: 400px) {
+    .main-row td {
+        display: table-row;
+    }
 }
